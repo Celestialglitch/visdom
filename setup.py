@@ -42,7 +42,6 @@ requirements = [
     'scipy',
     'requests',
     'tornado',
-    'six',
     'jsonpatch',
     'websocket-client',
     'networkx'
